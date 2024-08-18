@@ -1,4 +1,4 @@
-<h3 align="left">Hey there! I'm Ammar Abdelwadoud.</h3>
+<h1 align="left">Hey there! I'm Ammar Abdelwadoud.</h1>
 
 ###
 
@@ -47,9 +47,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Dangoxy/Dangoxy/output/snake.svg" alt="Snake animation" />
 
 ###
